@@ -8,4 +8,4 @@ Sample website with plenty of files for demos
 
 ##Conclusion
 
-Checking Rebase
+Checking Rebase, feature branch changes added.
